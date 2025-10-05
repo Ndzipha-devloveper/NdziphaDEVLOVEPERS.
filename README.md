@@ -6,8 +6,8 @@
 **Hair by Isentle** is a responsive, mobile-friendly website built to showcase a personal hair styling brand. Designed for a real client, the site reflects elegance, simplicity, and professionalism — with a clean layout, intuitive navigation, and custom styling that matches the brand’s identity.
 
 ### 🌐 Live Site
-[Visit Hair by Isentle](https://your-custom-domain.com)  
-*(Replace with actual domain or GitHub Pages link)*
+[Visit Hair by Isentle]([https://your-custom-domain.com](https://ndzipha-devloveper.github.io/NdziphaDEVLOVEPERS./))  
+
 
 ### 🛠️ Tech Stack
 - **HTML5** & **CSS3** — semantic structure and custom styling
