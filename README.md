@@ -1,8 +1,6 @@
-Absolutely — let’s make your README shine like a real dev portfolio piece. Since this is for “Hair by Isentle,” I’ll tailor it to reflect the professionalism and personal touch you brought to that project. Here’s a solid draft you can tweak as needed:
 
----
 
-## 🧾 Hair by Isentle — README
+## 🧾 Hair by Isentle
 
 ### 💇‍♀️ Project Overview
 **Hair by Isentle** is a responsive, mobile-friendly website built to showcase a personal hair styling brand. Designed for a real client, the site reflects elegance, simplicity, and professionalism — with a clean layout, intuitive navigation, and custom styling that matches the brand’s identity.
