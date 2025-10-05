@@ -3,7 +3,9 @@
 ## 🧾 Hair by Isentle
 
 ### 💇‍♀️ Project Overview
-**Hair by Isentle** is a responsive, mobile-friendly website built to showcase a personal hair styling brand. Designed for a real client, the site reflects elegance, simplicity, and professionalism — with a clean layout, intuitive navigation, and custom styling that matches the brand’s identity.
+**Hair by Isentle** Isentle, a local entrepreneur selling premium weaves and bundles, was running her business through WhatsApp. One day, her account got hacked. Clients were scammed out of their hard-earned money. Posts started circulating on Facebook. She was trending — but for the wrong reasons. People thought she was the scammer.
+
+I built this site to help her bounce back. No more selling through vulnerable platforms. This site gives her a secure, professional space to showcase her products and take bookings directly — no middleman, no risk..
 
 ### 🌐 Live Site
 [Visit Hair by Isentle]([https://your-custom-domain.com](https://ndzipha-devloveper.github.io/NdziphaDEVLOVEPERS./))  
