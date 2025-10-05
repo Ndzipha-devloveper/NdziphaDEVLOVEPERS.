@@ -8,7 +8,7 @@
 I built this site to help her bounce back. No more selling through vulnerable platforms. This site gives her a secure, professional space to showcase her products and take bookings directly — no middleman, no risk..
 
 ### 🌐 Live Site
-[Visit Hair by Isentle]([https://your-custom-domain.com](https://ndzipha-devloveper.github.io/NdziphaDEVLOVEPERS./))  
+[Visit Hair by Isentle]((https://ndzipha-devloveper.github.io/NdziphaDEVLOVEPERS./))  
 
 
 ### 🛠️ Tech Stack
