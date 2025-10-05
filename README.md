@@ -50,6 +50,4 @@ Site is deployed via GitHub Pages
 Frontend Developer | Bootcamp Trainee | Portfolio Builder  
 [LinkedIn](https://www.linkedin.com/in/siyamthanda-ndzipha-b8364a299/) • [GitHub]([#](https://github.com/Ndzipha-devloveper)) 
 
----
 
-Want me to help you polish the tagline, write a client handoff note, or prep a version for your GitHub profile?
